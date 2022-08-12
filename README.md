@@ -1,6 +1,3 @@
-
-![Banner image](./img/banner.png)
-
 # Hello! 👋
 This is **Tawsif Torabi**. This is not my actual name, my name in the certificates is *Gazi Tawsif Turabi* So... Huh 😪
 </br>
