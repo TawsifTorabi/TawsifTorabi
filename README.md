@@ -30,6 +30,5 @@ I write articles in Bangla on my own blog about programming, [faltuCoder](https:
 
 
 ## 🖥⌨ Github Stats
-S0me Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TawsifTorabi&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TawsifTorabi&show_icons=true&theme=transparent&layout=compact)
