@@ -30,9 +30,8 @@ I write articles in Bangla on my own blog about programming, [faltuCoder](https:
 
 
 ## 💻 Latest Blog Post on FaltuCoder
-<!-- blog-post-list:start -->
-<!-- blog-post-list:end -->
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Support me if you felt generous 😁
 <a align="center" href="https://www.buymeacoffee.com/tawsiftorabi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=tawsiftorabi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/></a>
