@@ -17,25 +17,22 @@ I write articles in Bangla on my own blog about programming, [faltuCoder](https:
 </br>
 
 <h2 align="center">I'd like to help you! 🧐</h2>
-
 <div align="center">
-
 [<img src = "https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://facebook.com/tawsiftorabi)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tawsiftorabi/) 
 [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/tawsiftorabi/)  
-
-	
 </div>
-
 
 
 ## 🖥⌨ Github Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TawsifTorabi&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TawsifTorabi&show_icons=true&theme=transparent&layout=compact)
 
+
 ## 💻 Latest Blog Post on FaltuCoder
 <!-- blog-post-list:start -->
 <!-- blog-post-list:end -->
 
 
+## Support me if you felt generous 😁
 <a align="center" href="https://www.buymeacoffee.com/tawsiftorabi"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=tawsiftorabi&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/></a>
