@@ -17,7 +17,7 @@ jobs:
       - name: Generate
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
-          feed_urls: https://www.blogger.com/feeds/5452681278479740088/posts/default?alt=rss&max-results=3
+          feed_urls: https://faltucoder.blogspot.com/feeds/posts/default?alt=rss
           output_dir: blog-posts
           locale: en-US
           time_zone: Asia/Dhaka
