@@ -31,11 +31,11 @@ I write articles in Bangla on my own blog about programming, [faltuCoder](https:
 
 ## 💻 Latest Blog Post on FaltuCoder
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
+- [Why do you need a personal website? How to create one?](https://faltucoder.blogspot.com/2023/05/why-do-you-need-personal-website-how-to.html)
+- [Adding a Contact Form to Your GitHub Pages with Un-Static](https://faltucoder.blogspot.com/2023/05/adding-contact-form-to-your-github.html)
+- [একই XAMPP দুইটি কম্পিউটারে ব্যাবহার করো!](https://faltucoder.blogspot.com/2023/02/xampp.html)
+- [উইন্ডোজ পিসি হবে অটোমেটিক শাটডাউন!](https://faltucoder.blogspot.com/2023/02/blog-post.html)
+- [বেশ কয়েকটি Artificial Intelligent Tool যা আপনার দরকার হতে পারে](https://faltucoder.blogspot.com/2023/02/artificial-intelligent-tool.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support me if you felt generous 😁
