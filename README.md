@@ -31,11 +31,11 @@ I write articles in Bangla on my own blog about programming, [faltuCoder](https:
 
 ## 💻 Latest Blog Post on FaltuCoder
 <!-- BLOG-POST-LIST:START -->
+- [KickstartArduino #1 - guide to digitalWrite&lpar;&rpar; &amp; digitalRead&lpar;&rpar; functions](https://faltucoder.blogspot.com/2024/04/kickstartarduino-1-guide-to.html)
 - [Why do you need a personal website? How to create one?](https://faltucoder.blogspot.com/2023/05/why-do-you-need-personal-website-how-to.html)
 - [Adding a Contact Form to Your GitHub Pages with Un-Static](https://faltucoder.blogspot.com/2023/05/adding-contact-form-to-your-github.html)
 - [একই XAMPP দুইটি কম্পিউটারে ব্যাবহার করো!](https://faltucoder.blogspot.com/2023/02/xampp.html)
 - [উইন্ডোজ পিসি হবে অটোমেটিক শাটডাউন!](https://faltucoder.blogspot.com/2023/02/blog-post.html)
-- [বেশ কয়েকটি Artificial Intelligent Tool যা আপনার দরকার হতে পারে](https://faltucoder.blogspot.com/2023/02/artificial-intelligent-tool.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support me if you felt generous 😁
