@@ -7,7 +7,8 @@ I don't know, why every engineer finds passion in something that is definitely n
 And talking about myself, I'll just add that I'm a guy who loves his computer,  
 and got someone as better-half who really hates codes. Wish me luck 🤞
 
-Basically I like to work with Javascript, PHP, Java, C, HTML & CSS and so on. </br>
+Basically I feel easy to work with Javascript, PHP, Python and C++ and I know Java, C and CSS as Well. </br>
+What most attracts me is robotic systems and Hardware-Software Integration like in embedded systems.
 </br>
 My preferable operarting system is Windows & Mac. I like Mac that doesn't mean that I've a Mac. 🙂 I've worked at a production company and they gave me a iMac 2012 as my workstation. And that was a smooth experience.
 </br>
