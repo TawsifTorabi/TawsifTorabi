@@ -32,7 +32,7 @@ I write articles in Bangla on my own blog about programming, [faltuCoder](https:
 
 ## 💻 Latest Blog Post on FaltuCoder
 <!-- BLOG-POST-LIST:START -->
-- [Set Up a Free SSL Certificate on Your XAMPP Server on Windows 10](https://faltucoder.blogspot.com/2024/08/set-up-free-ssl-certificate-on-your.html)
+- [Setting Up a Free SSL Certificate on Your XAMPP Server on Windows 10](https://faltucoder.blogspot.com/2024/08/set-up-free-ssl-certificate-on-your.html)
 - [KickstartArduino #1 - guide to digitalWrite&lpar;&rpar; &amp; digitalRead&lpar;&rpar; functions](https://faltucoder.blogspot.com/2024/04/kickstartarduino-1-guide-to.html)
 - [Why do you need a personal website? How to create one?](https://faltucoder.blogspot.com/2023/05/why-do-you-need-personal-website-how-to.html)
 - [Adding a Contact Form to Your GitHub Pages with Un-Static](https://faltucoder.blogspot.com/2023/05/adding-contact-form-to-your-github.html)
