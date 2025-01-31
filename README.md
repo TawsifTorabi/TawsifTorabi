@@ -32,11 +32,11 @@ I write articles in Bangla on my own blog about programming, [faltuCoder](https:
 
 ## 💻 Latest Blog Post on FaltuCoder
 <!-- BLOG-POST-LIST:START -->
+- [&quot;PL2303HXA phased out since 2012&quot; - What is the problem with my USB TTL Converter?](https://faltucoder.blogspot.com/2025/01/pl2303hxa-phased-out-since-2012-what-is.html)
 - [What if you ignored the .gitignore?](https://faltucoder.blogspot.com/2024/11/what-if-you-ignored-gitignore.html)
 - [How I Built PrinterWebSocket: A Free Solution for Silent POS Printing with Python WebSockets](https://faltucoder.blogspot.com/2024/11/how-i-built-printerwebsocket-free.html)
 - [How to Format Text in Messenger: Bold, Italics, and More](https://faltucoder.blogspot.com/2024/11/how-to-format-text-in-messenger-bold.html)
 - [Setting Up a Free SSL Certificate on Your XAMPP Server on Windows 10](https://faltucoder.blogspot.com/2024/08/set-up-free-ssl-certificate-on-your.html)
-- [KickstartArduino #1 - guide to digitalWrite&lpar;&rpar; &amp; digitalRead&lpar;&rpar; functions](https://faltucoder.blogspot.com/2024/04/kickstartarduino-1-guide-to.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Support me if you felt generous 😁
